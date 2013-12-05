@@ -1,0 +1,24 @@
+{
+  "name": "date.js",
+  "version": "0.0.1",
+  "description": "A js date function like the date function in PHP.",
+  "main": "date.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ohfang/date.js.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "date"
+  ],
+  "author": "fang",
+  "license": "Public Domain",
+  "bugs": {
+    "url": "https://github.com/ohfang/date.js/issues"
+  },
+  "homepage": "https://github.com/ohfang/date.js"
+}
